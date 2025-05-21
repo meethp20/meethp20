@@ -1,6 +1,7 @@
 # 💫 About Me:
 currently working on fullstack webApplication 
 
+<img src="./GIF by Silicon Valley.gif" width="100%" alt="Silicon Valley GIF" />
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meeth27) 
