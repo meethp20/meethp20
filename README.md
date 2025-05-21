@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on fullstack webApplication 
+currently working on fullstack webApplications
 
 <img src="https://media0.giphy.com/media/l46Cgwa9YZNNrEQla/giphy.gif" alt="Silicon Valley GIF" width="100%" />
 
