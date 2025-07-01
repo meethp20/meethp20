@@ -1,7 +1,7 @@
 # 💫 About Me:
 currently working on fullstack webApplications
 
-<img src="https://media0.giphy.com/media/l46Cgwa9YZNNrEQla/giphy.gif" alt="Silicon Valley GIF" width="100%" />
+  <img src="[https://media0.giphy.com/media/l46Cgwa9YZNNrEQla/giphy.gif](https://gist.github.com/tonyantony300/6abac9df5d0cdec6ca4bc4e4f463147e/raw/3fed0b2734e5f2bb90d43f9e3c9f224364a0b2da/fast.gif)" alt="Silicon Valley GIF" width="100%" />
 
 
 ## 🌐 Socials:
