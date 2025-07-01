@@ -2,7 +2,8 @@
 currently working on fullstack webApplications
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZoMHBsM2pjc2o4NGxyY3o0ZTkweXZhaW9rdjloZXo0eHpodGJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9CffOPMLx0Hf2/giphy.gif" alt="Coding gif" width="400"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzemszcm15NG0wdWo5N2tjZjFwZzc4cnJkcG9xZnYwam43N3d2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwEweAW0zXcGQupuAC/giphy.gif" alt="React coding gif" width="400" />
+
 
 
 
