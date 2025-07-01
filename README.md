@@ -1,7 +1,8 @@
 # 💫 About Me:
 currently working on fullstack webApplications
 
-<img src="https://media4.giphy.com/media/1.Y2lKPtc5MGI3NjExY2I1blwdMHVuaG5hdGNzOW1NmmwN.../giphy.gif" alt="coding gif" width="400" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZoMHBsM2pjc2o4NGxyY3o0ZTkweXZhaW9rdjloZXo0eHpodGJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9CffOPMLx0Hf2/giphy.gif" alt="Coding gif" width="400"/>
+
 
 
 
