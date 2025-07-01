@@ -1,5 +1,6 @@
 # 💫 About Me:
 currently working on fullstack webApplications
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZoMHBsM2pjc2o4NGxyY3o0ZTkweXZhaW9rdjloZXo0eHpodGJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9CffOPMLx0Hf2/giphy.gif" alt="Coding gif" width="400"/>
 
 <img src="https://gist.github.com/tonyantony300/6abac9df5d0cdec6ca4bc4e4f463147e/raw/3fed0b2734e5f2bb90d43f9e3c9f224364a0b2da/fast.gif" alt="fast gif" width="400"/>
 
