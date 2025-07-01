@@ -1,7 +1,7 @@
 # 💫 About Me:
 currently working on fullstack webApplications
 
-<script src="https://gist.github.com/tonyantony300/6abac9df5d0cdec6ca4bc4e4f463147e.js"></script>
+<img src="https://gist.github.com/tonyantony300/6abac9df5d0cdec6ca4bc4e4f463147e/raw/3fed0b2734e5f2bb90d43f9e3c9f224364a0b2da/fast.gif" alt="sexy" />
 
 
 ## 🌐 Socials:
